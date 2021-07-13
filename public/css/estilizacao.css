@@ -1,0 +1,196 @@
+
+.public-body{
+    
+    background-color: white;
+}
+.slide-servico{
+    height: 500px;
+    margin-top: -20px;
+}
+
+.slide-servico1{
+    width: 280px;
+    height: 212px;
+    background-color: #78CAA6;
+    opacity: 92%;
+    border-radius: 0px;
+    margin: 5px;
+    padding: 10px;
+    display: inline-block;
+    position: relative;
+    top: 230px;
+}
+
+.slide-servico1-titulo{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+.descricao-slide-servico{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    color: white;
+    font-size: 16px;
+    text-align: justify;
+}
+
+
+.botao-slide-servico{
+margin-right: 155px;
+color: white;
+background-color: #127048;
+border: none;
+border-radius: 0px;
+}
+
+.botao-slide-servico:hover{
+    color: white;
+    background-color: #105034;
+    
+    }
+
+    .card-agendar{
+        margin-top: 2px;
+        height:80px ;
+        
+    }
+
+    
+    .before-menu{
+        margin-right:auto;
+        margin-left:auto;
+        text-align: center;
+        height: 40px;
+        background-color: whitesmoke;
+    }
+
+
+    .menu{
+        margin-right:auto;
+        margin-left:auto;
+        text-align: center;
+        background-color: #FFFFFF;
+    }
+    
+    .nav-item{
+        padding-right: 80px;
+    }
+
+    .navbar .navbar-nav {
+        display: inline-block;
+        float: none !important;
+        
+        }
+        
+        .navbar .navbar-collapse {
+        text-align: center;
+        }
+
+        .slide-servico2-titulo{
+            text-align: center;
+            margin-right:auto;
+            margin-left:auto;
+        }
+
+        .outros-servicos{    
+    text-align: center;
+    margin-right:auto;
+    margin-left:auto;
+        }
+
+        
+.avatar {
+    vertical-align: middle;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+  }
+
+  .outros-servicos1{    
+    width: 280px;
+    height: 212px;
+    border-radius: 0px;
+    display: inline-block;
+    position: relative;    
+    margin-right: 20px;
+    margin-left: 20px;
+    text-align: center !important;
+  }
+  .desc{
+    text-align: center !important;
+    color: #707070;
+  }
+  
+  .titulo-servico1{
+      font-weight: 500;
+  }
+
+  .botao-outro-servico{
+      color: #9155A7;
+  }
+
+  .newsletter{
+    text-align: center !important;
+    background-color: #F2F2F2;
+    width: 100%;
+    height: 220px;
+  }
+  /*Campo insercão newslleter*/
+
+
+  .searchform {
+    display: block;	
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center
+  }
+  
+  .searchform label, 
+  .searchform input {
+    color: #737373;
+    float: left;
+    vertical-align: baseline;
+  }
+  
+  .searchform label { margin: .125em .125em 0 0; }
+  
+  .searchform input[type=search] {
+    font: 1em/1.618 Open Sans, Arial, Sans-serif;
+    border: .125em solid #737373;
+    border-width: 0 0 1px;
+    background-color: transparent;
+    padding: .1875em .375em;
+    width: 80%;
+  }
+  
+  .searchform input[type=search]:focus {
+    border-color: #9155A7;
+    color: #707070;
+    outline: 0;
+  }
+  
+  @media only screen and (min-width: 48em) {
+    .searchform input[type=search]{ width: 50%; }
+  }
+
+  /* fim do Campo insercão newslleter*/
+  .btnnewsletter:hover{
+      background-color:  #9155A7;
+  }
+  .rodape{
+    text-align: center !important;
+    background-color: #6DCBA2;
+    width: 100%;
+    height: 100px;      
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+  .texto-rodape{
+      color: white;
+      text-align: left;
+      left: 30px;
+
+  }
