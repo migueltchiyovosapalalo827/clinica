@@ -9,7 +9,7 @@
 		<meta name='copyright' content=''>
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-		<title>Clinica 29 de Novembro </title>
+		<title>Clinica Esmeralda </title>
 		<!-- Favicon -->
         <link rel="icon" href="img/favicon.png">
 
@@ -70,7 +70,7 @@
 							<div class="col-lg-3 col-md-3 col-12">
 								<!-- Start Logo -->
 								<div class="logo">
-									<a href=""><img src="img/logo.png" alt="#"></a>
+									<a href="">Clinica Esmeralda</a>
 								</div>
 								<!-- End Logo -->
 								<!-- Mobile Nav -->
@@ -310,7 +310,7 @@
 					<div class="row">
 						<div class="col-lg-12 col-md-12 col-12">
 							<div class="copyright-content">
-								<p>© Copyright 2021  |  ISPB <a href="#" target="_blank">Clinica 29 de Novembro</a> </p>
+								<p>© Copyright 2022  |  IP-UKB <a href="#" target="_blank">Clinica Esmeralda</a> </p>
 							</div>
 						</div>
 					</div>

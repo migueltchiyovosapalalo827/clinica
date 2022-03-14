@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>clinica 29 de novenbro</title>
+    <title>clinica Esmeralda</title>
     <link rel="stylesheet" href="{{asset('css/stilo.css')}}">
     <link href="{{asset('css/estilizacao.css')}}" rel="stylesheet">
     <link href="{{asset('css/app.css')}}" rel="stylesheet">
@@ -11,7 +11,7 @@
     <link href="{{asset('css/estilo-painel-controler.css')}}"rel="stylesheet">
     <link href="{{asset('css/admin-form-acesso-sistema.css')}}" rel="stylesheet">
 
-    
+
     <link rel="stylesheet" href="{{asset('css/font-awesome.min.css')}}">
     <link rel="stylesheet" href="{{asset('css/ionicons.min.css')}}">
     <link rel="stylesheet" href="{{asset('css/animate.min.css')}}">
@@ -21,7 +21,7 @@
         }
       </style>
 
-    
+
 </head>
 <body class="public-body">
 
@@ -161,9 +161,9 @@
     <span class="sr-only">Next</span>
   </a>
 </div>
-       
-    
-       
+
+
+
     </div>
     <!--Fim Nossos serviços-->
 
@@ -260,7 +260,7 @@
 
         <div class="rodape">
             <div class="col-md-5 texto-rodape">
-                <p>@ 2021 Por Sua Empresa. Todos os direitos reservados a Programador</p>
+                <p>@ 2022 Por Sua Empresa. Todos os direitos reservados a Programador</p>
                 <p><i class="fa fa-map-marker" aria-hidden="true"></i> Bairro do 70, Rua nº 01 - Benguela, BG | <i
                         class="fa fa-phone" aria-hidden="true"></i> 900
                     000 000/ 900 000 000</p>
@@ -277,14 +277,14 @@
 
 
 
-    
+
 </body>
 <script src="{{asset('js/jquery.min.js')}}"></script>
 <script src="{{asset('js/bootstrap.js')}}"></script>
 <script>
             $(function() {
               var t0, t1;
-      
+
               // Test to show that the carousel doesn't slide when the current tab isn't visible
               // Test to show that transition-duration can be changed with css
               $('#carousel-example-generic').on('slid.bs.carousel', function(event) {
