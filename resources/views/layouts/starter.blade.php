@@ -53,7 +53,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
   <!-- Main Footer -->
   <footer class="main-footer">
 
-    <strong>Copyright &copy; 2021 <a href="#">Clinica 29 de Novembro</a>.</strong> todos direitos reservados.
+    <strong>Copyright &copy; 2022 <a href="#">Clinica Esmeralda</a>.</strong> todos direitos reservados.
   </footer>
    <!-- Control Sidebar -->
    <aside class="control-sidebar control-sidebar-dark">

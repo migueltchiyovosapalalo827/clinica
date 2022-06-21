@@ -62,7 +62,7 @@ class AuthController extends BaseController
     }
     public function destroy(Request $request)
     {
-        Auth::user()->currentAccessToken()->delete();
+        $request->user()->currentAccessToken()->delete();
         return   $this->sendResponse(true, 'User  signed out');
     }
 

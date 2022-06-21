@@ -70,7 +70,7 @@
 							<div class="col-lg-3 col-md-3 col-12">
 								<!-- Start Logo -->
 								<div class="logo">
-									<a href="">Clinica Esmeralda</a>
+									<a href=""> <img src="{{asset('img/favicon.png')}}" width="50" alt="#">Clinica Esmeralda</a>
 								</div>
 								<!-- End Logo -->
 								<!-- Mobile Nav -->
@@ -198,7 +198,7 @@
 								<i class="icofont icofont-ui-call"></i>
 								<div class="content">
 									<h3>+(244)  900 000 000</h3>
-									<p>clinica29denovembro@gmail.com</p>
+									<p>clinicaesmeralda@gmail.com</p>
 								</div>
 							</div>
 						</div>
@@ -208,8 +208,7 @@
 							<div class="single-info">
 								<i class="icofont-google-map"></i>
 								<div class="content">
-									<h3>Rua da Setenco</h3>
-									<p>Benguela </p>
+									<h3>Benguela</h3>
 								</div>
 							</div>
 						</div>

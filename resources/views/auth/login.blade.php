@@ -21,11 +21,11 @@
 <body class="hold-transition login-page">
 <div class="login-box">
   <div class="login-logo">
-    <a href="#"><b>Clinica 29 De Novembro </b>Benguela</a>
+    <a href="#"><b>Clinica Esmeralda </b>Benguela</a>
   </div>
   <!-- /.login-logo -->
   <div class="card">
-  
+
     <div class="card-body login-card-body">
       <p class="login-box-msg">Faça login para iniciar sua sessão</p>
       @if ($errors->any())
@@ -65,7 +65,7 @@
         </div>
       </form>
 
-      
+
       <!-- /.social-auth-links -->
 
       <p class="mb-1">
@@ -73,7 +73,7 @@
         <a href="{{ route('password.request') }}"> Esqueceu sua senha?</a>
         @endif
       </p>
-      
+
     </div>
     <!-- /.login-card-body -->
   </div>
